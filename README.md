@@ -60,12 +60,12 @@ Whether it's fine-tuning biomedical NLP models, architecting multi-agent LLM sys
 
 ---
 
-### 📈 Lead Generation SaaS Platform
-> Premium B2B lead scraping with AI Lead Scoring, advanced filtering, and cold email sequences.
+### 📈 CometitorAI SaaS Platform
+> Premium B2B competitor scraping with AI  Scoring, advanced filtering, and  real time tracking .
 
 | Layer | Technologies |
 |---|---|
-| **Stack** | Angular 17 · Spring Boot · FastAPI (scraping microservice) · Stripe · XGBoost |
+| **Stack** | react · next.js · n8n · Prisma · Postgresql |
 | **Features** | AI Lead Scoring · Email Sequences · Advanced Filtering · Premium tiers |
 
 ---
