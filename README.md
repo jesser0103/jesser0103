@@ -26,7 +26,7 @@ My ambition is to take AI from prototype to production. Whether it's orchestrati
 
 Curious, autonomous, and rigorous — I keep learning and enjoy understanding in depth how things work.
 
-🌍 Based in Tunis, Tunisia · Industrial Informatics @ ENET'Com  
+🌍 Based in Tunis, Tunisia · Final-year Engineering Student @ ENET'Com  
 🚀 Builder by nature. Researcher by passion. Engineer by training.
 
 ---
