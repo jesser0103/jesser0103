@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jasser%20Souissi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20LLMOps%20%26%20Cloud&descSize=18&descAlignY=52" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25&height=180&section=header&text=Jasser%20Souissi&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <br/>
 
@@ -152,6 +152,6 @@ Curious, autonomous, and rigorous — I keep learning and enjoy understanding in
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25&height=100&section=footer" width="100%"/>
 
 </div>
