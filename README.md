@@ -18,13 +18,15 @@
 
 ## 💫 About Me
 
-I'm **Jasser** 👋 — an AI/ML Engineer & Full-Stack Developer on a mission to build software that's not just functional, but *intelligent*.
+I'm **Jasser** 👋 — a final-year engineering student passionate about AI, full-stack development, and the cloud.
 
-> *"The best code doesn't just solve problems — it anticipates them."*
+> *"Build useful, robust and secure AI solutions — from the first idea to deployment."*
 
-Whether it's designing multi-agent LLM systems with human-in-the-loop validation, putting AI pipelines into production with MLOps, or building secure cloud infrastructure — I bring the full stack to every challenge. I'm obsessed with the space where **machine intelligence meets real-world impact**.
+My ambition is to take AI from prototype to production. Whether it's orchestrating **multi-agent LLM systems**, building **secure cloud infrastructure with Terraform & Kubernetes**, or deploying **end-to-end ML pipelines** with MLOps — I bring the full stack to every challenge. With hands-on experience in LLMOps, AI DevSecOps, and FinOps for LLMs, I focus on making AI solutions that are **production-ready, observable, and secure**.
 
-🌍 Based in Tunis, Tunisia · Final-year Engineering Student @ ENET'Com  
+Curious, autonomous, and rigorous — I keep learning and enjoy understanding in depth how things work.
+
+🌍 Based in Tunis, Tunisia · Industrial Informatics @ ENET'Com  
 🚀 Builder by nature. Researcher by passion. Engineer by training.
 
 ---
